@@ -12,3 +12,4 @@ d:\CSHARP_TEST\obj\Debug\net8.0\refint\CSHARP_TEST.dll
 d:\CSHARP_TEST\obj\Debug\net8.0\CSHARP_TEST.pdb
 d:\CSHARP_TEST\obj\Debug\net8.0\CSHARP_TEST.genruntimeconfig.cache
 d:\CSHARP_TEST\obj\Debug\net8.0\ref\CSHARP_TEST.dll
+d:\CSHARP_TEST\obj\Debug\net8.0\CSHARP_TEST.sourcelink.json
