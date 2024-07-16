@@ -2,7 +2,7 @@ namespace DAY1_7;
 
 public class Fruit
 {
-    static void Main(string[] args){
+    static void Main1(string[] args){
         string name = "명수";
         int a = 10;
         int b = 5;
