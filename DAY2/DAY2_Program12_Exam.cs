@@ -6,7 +6,7 @@ namespace DAY2;
 
 public class DAY2
 {
-    static void Main(String [] args)
+    static void Main1(String [] args)
     {
    
         
