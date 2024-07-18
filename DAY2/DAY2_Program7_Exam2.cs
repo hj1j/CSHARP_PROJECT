@@ -5,7 +5,7 @@ namespace DAY2_7_2;
 public class DAY2_7_2
 {
 
-    static void Main(string [] args)
+    static void Main1(string [] args)
     {
         String PW; //패스워드
         String PWD = "123123";
