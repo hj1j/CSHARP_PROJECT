@@ -6,7 +6,7 @@ namespace DAY2;
 
 public class DAY2_17{
     
-    static void Main(String [] agrs)
+    static void Main1(String [] agrs)
     {
         bool size = false;
         bool integer=false;
@@ -21,6 +21,7 @@ public class DAY2_17{
             size = true;
 
             integer = Int32.TryParse(In_PW[i], out number);
+            Console.WriteLine("{0}", integer);
         }
 
         if(size == true && integer == true){
