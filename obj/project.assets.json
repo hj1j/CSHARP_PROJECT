@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\20231031\\CSHARP_PROJECT\\CSHARP_TEST.csproj",
+      "projectUniqueName": "d:\\20231031\\CSHARP_PROJECT\\CSHARP_TEST.csproj",
       "projectName": "CSHARP_TEST",
-      "projectPath": "D:\\20231031\\CSHARP_PROJECT\\CSHARP_TEST.csproj",
+      "projectPath": "d:\\20231031\\CSHARP_PROJECT\\CSHARP_TEST.csproj",
       "packagesPath": "C:\\Users\\305-21\\.nuget\\packages\\",
-      "outputPath": "D:\\20231031\\CSHARP_PROJECT\\obj\\",
+      "outputPath": "d:\\20231031\\CSHARP_PROJECT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\305-21\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

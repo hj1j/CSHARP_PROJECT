@@ -4,7 +4,7 @@ namespace Challenge;
 
 public class Challenge1
 {
-    static void Main(String [] agrs)
+    static void Main1(String [] agrs)
     {
         Console.WriteLine("주민등록번호를 입력해주세요");
         string Number = Console.ReadLine();  //입력 받기
