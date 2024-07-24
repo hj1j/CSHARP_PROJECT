@@ -4,7 +4,7 @@ namespace C_SHARP_PROJECT;
 public class DAY3_Program15_Exam
 {
 
-    static void Main(string [] agrs)
+    static void Main1(string [] agrs)
     {
         //student std = new student();
         string[] name = new string[3];
