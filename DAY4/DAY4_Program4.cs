@@ -3,7 +3,7 @@ using System.Net.Sockets;
 namespace C_SHARP_PROJECT;
     public class DAY4_PROGRAM4
     {
-        static void Main()
+        static void Main1()
         {
             Address address = new Address("B1-3029", "BBSR", "Odisha"); // 주소 객체
             Employee employee = new Employee(1001, "Ramesh", address); // 고요인 정보 및 주소 객체 전달
