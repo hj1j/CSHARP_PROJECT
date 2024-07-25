@@ -5,7 +5,7 @@ public class DAY3_PROGRAM22_Exam
 {
     public string Object_init {get; set;}
     
-    static void Main(string []agrs)
+    static void Main1(string []agrs)
     {
         Calculator calculator = new Calculator();
         Object_init objectInit = new Object_init(calculator);
