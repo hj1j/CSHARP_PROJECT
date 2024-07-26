@@ -1,6 +1,6 @@
 namespace C_SHARP_PROJECT;
 public class DAY4_PROGRAM15{
-    static void Main(String []args){
+    static void Main1(String []args){
         real_son2 son2 = new real_son2(); // 인자 전달 없는 기본 생성자 호출
         real_son2 son3 = new real_son2("홍길동"); // 문자열 인자 받는 생성자 호출
     }

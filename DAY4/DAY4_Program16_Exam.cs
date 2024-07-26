@@ -1,7 +1,7 @@
 namespace C_SHARP_PROJECT;
-public class DAY4_PROGRAM6_Exam
+public class DAY4_PROGRAM16_Exam
 {
-    static void Main (String [] args)
+    static void Main1 (String [] args)
     {
         
     }
